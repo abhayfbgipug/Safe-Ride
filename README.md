@@ -1,4 +1,4 @@
-# DriverAssistant
+# Safe Ride App
 
 #Safe Ride app
 The Safe Ride app is an application that detects the face of a user while driving and alerts him whenever he goes into a microsleep !

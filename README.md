@@ -1,6 +1,5 @@
 # Safe Ride App
 
-#Safe Ride app
 The Safe Ride app is an application that detects the face of a user while driving and alerts him whenever he goes into a microsleep !
 It is an efficient app which works with a high accuracy in bright as well as dim light .
 This app detects the eyes of the user in glasses as well as in mask.
